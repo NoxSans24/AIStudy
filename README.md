@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="docs/assets/ai-studymate-banner.png" alt="AI StudyMate Banner" width="100%">
+<img src="docs/assets/aistudy-banner.png" alt="AI StudyMate Banner" width="100%">
 
 # AI StudyMate
 
