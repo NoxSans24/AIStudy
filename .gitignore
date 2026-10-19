@@ -12,6 +12,7 @@ __pycache__/
 *.py[cod]
 .venv/
 venv/
+backend/.venv/
 .pytest_cache/
 
 # Flutter / Dart
