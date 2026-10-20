@@ -62,3 +62,13 @@ Jangan memasukkan kredensial, API key, atau informasi rahasia ke repository. Fil
 ## Catatan Pengembangan
 
 Backend ini masih merupakan fondasi awal. Autentikasi, database, upload dokumen, dan integrasi AI akan dikembangkan melalui issue terpisah.
+
+## Testing
+
+Jalankan perintah berikut dari direktori root repository `AIStudy`:
+
+```powershell
+python -m pytest backend/tests -v
+```
+
+Tes saat ini mencakup pemeriksaan endpoint health check.
